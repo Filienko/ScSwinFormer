@@ -20,11 +20,13 @@ python scFormer.py
 
 in which
 
+```
 k=2000 Pre-processing selection of 2000 highly variable genes
 s=The length of Smooth gene embedding dimension
 scFormer(input_size, output_size)
 input_size = n_top_genes
 output_size = labels_size
+```
 
 Before running scFormer,please modify your file path and names (two files: the preprocessed scRNA-seq data file and its cell-type file). Please make sure your data file format: count matrix dimension is (genes*cells), label dimension is (1*cells).
 
