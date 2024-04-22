@@ -1,10 +1,6 @@
 # Introduction:
 
-scFormer, a Transformer-based model, can annotate cell types.
-
-Instructions and examples are provided in the following tutorials. This code contains the data preprocessing and cell annotation process.
-
-From the paper: scFormer: A Transformer-Based Cell Type Annotation Method for scRNA-seq Data Using Smooth Gene Embedding and Global Features
+This repository contains the data and python script in support of manuscript: scFormer: A Transformer-Based Cell Type Annotation Method for scRNA-seq Data Using Smooth Gene Embedding and Global Features. This work focuses on the annotation of scRNA-seq data using the Transformer-based deep learning model scFormer.
 
 # Requirement:
 
