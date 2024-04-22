@@ -8,6 +8,7 @@ From the paper: scFormer: A Transformer-Based Cell Type Annotation Method for sc
 
 # Requirement:
 
+'''
 Python==3.8.0
 PyTorch >= 1.5.0
 numpy==1.22.4
@@ -15,6 +16,7 @@ pandas==1.2.2
 scipy==1.8.1
 sklearn==1.9.1
 Scanpy==1.9.1
+'''
 
 # Usage:
 
