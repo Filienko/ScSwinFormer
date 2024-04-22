@@ -30,7 +30,7 @@ output_size = labels_size
 
 Before running scFormer,please modify your file path and names (two files: the preprocessed scRNA-seq data file and its cell-type file). Please make sure your data file format: count matrix dimension is (genes*cells), label dimension is (1*cells).
 
-Example data can be found in https://figshare.com/s/7651fa9725807dfb3dbc，Save to file path 'data/Adipose/'.
+Example data can be found in https://figshare.com/s/7651fa9725807dfb3dbc, Save to file path 'data/Adipose/'.
 
 # Citation:
 Please cite our paper if you use the code.
